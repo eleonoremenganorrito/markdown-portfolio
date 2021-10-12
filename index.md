@@ -1,3 +1,4 @@
+# My Index
 ---
 layout: default
 ---
